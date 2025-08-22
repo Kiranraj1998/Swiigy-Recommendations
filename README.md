@@ -57,6 +57,6 @@ Run a code:
 1.Data_cleaning_impute.py
 2.Data_cleaning_drop.py
 3.Data_processing.py
-4.indices.py
-5.recommendation.py
-6.stream.py
+4.indices_validate.py
+5.recommendation_method.py
+6.stream_app.py
