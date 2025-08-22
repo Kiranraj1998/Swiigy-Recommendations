@@ -35,6 +35,14 @@ Data Cleaning: Handle missing values, remove duplicates
 Encoding: One-Hot Encoding for categorical features
 Clustering: K-Means clustering for grouping similar restaurants
 
+**Evaluation report:**
+
+📊 BASIC METRICS:
+   Number of clusters: 50
+   Number of restaurants: 148,541
+   Inertia (WCSS): 434361887.72
+   Inertia per sample: 2924.19
+
 **Recommendation Algorithms**
 
 Cluster-based: Find restaurants in the same cluster
