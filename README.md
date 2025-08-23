@@ -67,5 +67,5 @@ Run a code:
 3.Data_processing.py
 4.indices_validate.py
 5.recommendation_method.py
-6.evaluation.py
+6.evaluate.py
 7.stream_app.py
