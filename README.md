@@ -69,3 +69,5 @@ Run a code:
 5.recommendation_method.py
 6.evaluate.py
 7.stream_app.py
+
+Note: Added encoded1_data.parquet as encoded csv file size is more than 100mb which will not able to push in Github
